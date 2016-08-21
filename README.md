@@ -1,18 +1,14 @@
 ThreeMenu
 ===
----
 
 忘记哪年哪月哪日，在dribble上看到的这个beautiful Android menu，今天抽空实现了~ <br>
 废话不多说，上图~~ <br><br>
 <img src="./ThreeMenu/gif/menu.gif" width = "320" height = "240" alt="ThreeMenu" />
-
 <br>
 
---- 
 
-# [apk样例下载](./ThreeMenu/ThreeMenuDemo.apk)
-
----
+# [apk样例下载](./ThreeMenu/apk/ThreeMenuDemo.apk)
+<br>
 
 # 如何使用
 
@@ -33,12 +29,12 @@ ThreeMenu
   </com.feiqishi.customview.ThreeMenu>
 ```
 
----
+<br>
 
 # 感谢
 https://dribbble.com/shots/1623679-Open-Close
+<br>
 
----
 # 注意
 请原谅我只在工程目录下放了组件源码。<br>
 如果你对该项目有什么问题或想法，请联系我：feiqishi@foxmail.com
