@@ -12,14 +12,11 @@ ThreeMenu
 
 # 如何使用
 
-### setp1
+### 0x00
 - 把源文件拷到你的  _src/包名_  目录下.
 
-### setp2
+### 0x01
 - 在布局文件中加入该组件，如下所示： <br>
-
-### setp3
-- 在你的代码中引用该组件
 
 ```
   <com.feiqishi.customview.ThreeMenu
@@ -29,6 +26,17 @@ ThreeMenu
   </com.feiqishi.customview.ThreeMenu>
 ```
 
+### 0x02
+- 在你的代码中引用该组件：<br>
+
+```
+    ThreeMenu view = (ThreeMenu) findViewById(R.id.view);
+    view.postive();//打开menu
+    view.negative();//关闭menu
+```
+
+### 0x03
+- 当然你也可以动态加载~~~
 <br>
 
 # 感谢
